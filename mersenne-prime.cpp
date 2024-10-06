@@ -1,6 +1,3 @@
-// g++ -o mersenne-prime mersenne-prime.cpp -L/usr/local/lib -lflint
-// LD_LIBRARY_PATH=/usr/local/lib ./mersenne-prime
-
 #include <iostream>
 #include <iomanip>
 #include <string>
